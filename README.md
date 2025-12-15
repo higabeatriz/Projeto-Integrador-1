@@ -127,7 +127,7 @@ Siga os passos abaixo para configurar o ambiente local.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/higabeatriz/Projeto-Integrador.git
+   git clone https://github.com/higabeatriz/Projeto-Integrador-1.git
    cd projeto_farma
    ```
 
@@ -180,6 +180,7 @@ Acesse a lista de Intervenções Farmacêuticas diretamente. Esta rota exige aut
 URL de Acesso: http://127.0.0.1:8000/api/intervencoes/
 
 Ação: Se estiver visualizando no navegador, use o link do Swagger UI primeiro, insira o Token lá e depois tente acessar este link para ver os dados formatados.
+
 
 
 
