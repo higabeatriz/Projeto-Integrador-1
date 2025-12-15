@@ -88,7 +88,7 @@ PROJETO_FARMA/
 
 ## Diagrama de Banco de Dados
 
-<img width="1078" height="846" alt="Image" src="https://github.com/user-attachments/assets/2ff7c2db-3c38-4bf8-ba2e-d6e5d7647a08" />
+<img width="1078" height="846" alt="Image" src="https://github.com/user-attachments/assets/957da151-8fbe-45ee-b2a8-96fed895d801" />
 
 > **Descrição:** Diagrama ER (Entidade-Relacionamento).
 
@@ -180,6 +180,7 @@ Acesse a lista de Intervenções Farmacêuticas diretamente. Esta rota exige aut
 URL de Acesso: http://127.0.0.1:8000/api/intervencoes/
 
 Ação: Se estiver visualizando no navegador, use o link do Swagger UI primeiro, insira o Token lá e depois tente acessar este link para ver os dados formatados.
+
 
 
 
